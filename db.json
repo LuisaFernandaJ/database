@@ -1,0 +1,14 @@
+{
+    "Courses": [
+        {
+            "id": 1,
+            "name": "Marketing",
+            "img": "https://es.sendinblue.com/wp-content/uploads/sites/6/2022/05/software-para-ventas-y-marketing.png"
+        },
+        {
+            "id": 2,
+            "name": "Develop",
+            "img": "https://wwwhatsnew.com/wp-content/uploads/2020/10/codigo-730x411.jpg"
+        }
+    ]
+}
