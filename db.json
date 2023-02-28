@@ -1,0 +1,28 @@
+{
+    "Courses": [
+        {
+            "id": 1,
+            "name": "Marketing",
+            "img": "https://es.sendinblue.com/wp-content/uploads/sites/6/2022/05/software-para-ventas-y-marketing.png",
+            "route": "Course Marketing"
+        },
+        {
+            "id": 2,
+            "name": "Develop",
+            "img": "https://wwwhatsnew.com/wp-content/uploads/2020/10/codigo-730x411.jpg",
+            "route": "Course Develop"
+        },
+        {
+            "id": 3,
+            "name": "Contabilidad",
+            "img": "https://ubjonline.b-cdn.net/wp-content/uploads/2017/08/contabilidad-una-aproximacion-conceptual.jpg",
+            "route": "Course Content"
+        },
+         {
+            "id": 4,
+            "name": "Administracion",
+            "img": "https://www.certus.edu.pe/blog/wp-content/uploads/2019/04/certus-seguir-la-carrera-administracion-empresas-1200x720.jpg",
+            "route": "Course Content"
+        }
+    ]
+}
